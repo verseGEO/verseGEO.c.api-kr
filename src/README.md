@@ -8,7 +8,7 @@ Exchange Rate 조회 API는 게임 또는 서비스의 Item, Point등에 대한 
 |-----|----------|----|
 |Exchange Rate API|exRate|int exRate(exRate_IN *in, exRate_OUT *out);|
 
-  <img src="https://github.com/verseGEO/verseGEO.json.api/blob/main/kr/ExchangeRateSeq.png">
+  <img src="https://github.com/verseGEO/verseGEO.json.api/blob/main/src/ExchangeRateSeq.png">
 
 
 
@@ -22,7 +22,7 @@ Exchange Rate 조회 후 수신된 환율기준으로 Item 또는 Point를 Play 
 |-----|----------|----|
 |Exchange Request API|exReq|int exReq(exReq_IN *in, exReq_OUT *out);|
 
-  <img src="https://github.com/verseGEO/verseGEO.json.api/blob/main/kr/ExchangeRequestSeq.png">
+  <img src="https://github.com/verseGEO/verseGEO.json.api/blob/main/src/ExchangeRequestSeq.png">
 
 
 
@@ -36,7 +36,7 @@ P2E 출금주소 검증 요청은 Game 또는 Contents 등 Metaverse 생태계 �
 |-----|----------|----|
 |Withdrawal Address Verification API|outAddr|int outAddr(outAddr_IN *in,		outAddr_OUT *out);|
 
-  <img src="https://github.com/verseGEO/verseGEO.json.api/blob/main/kr/WithdrawalAddressVerificationSeq.png">
+  <img src="https://github.com/verseGEO/verseGEO.json.api/blob/main/src/WithdrawalAddressVerificationSeq.png">
 
 
 
@@ -50,7 +50,7 @@ P2E 출금을 위해서는 사용자 비밀번호 등록이 필요합니다. 제
 |-----|----------|----|
 |Password Registration API|outPwd|int outPwd(outPwd_IN *in,		outPwd_OUT *out);|
 
-  <img src="https://github.com/verseGEO/verseGEO.json.api/blob/main/kr/PasswordRegistrationSeq.png">
+  <img src="https://github.com/verseGEO/verseGEO.json.api/blob/main/src/PasswordRegistrationSeq.png">
 
 
 
@@ -64,7 +64,7 @@ P2E 출금은 Play Token을 외부 이더리움 주소로 전송하는 기능입
 |-----|----------|----|
 |Withdrawal API|reqWithdraw|int reqWithdraw(reqWdraw_IN *in,	reqWdraw_OUT *out);|
 
-  <img src="https://github.com/verseGEO/verseGEO.json.api/blob/main/kr/WithdrawalSeq-1.png">
-  <img src="https://github.com/verseGEO/verseGEO.json.api/blob/main/kr/WithdrawalSeq-2.png">
+  <img src="https://github.com/verseGEO/verseGEO.json.api/blob/main/src/WithdrawalSeq-1.png">
+  <img src="https://github.com/verseGEO/verseGEO.json.api/blob/main/src/WithdrawalSeq-2.png">
 
 
